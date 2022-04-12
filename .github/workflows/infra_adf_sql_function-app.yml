@@ -9,10 +9,11 @@ on:
       subscriptionId:
         description: 'SubscriptionId'
         required: true
+        default: 'a7e948a0-d968-4731-801f-7053780b34fe'
       resourceGroupName:
         description: 'Resource group name'
         required: true
-        default: 'rg-ais-demos'
+        default: 'LogicApps'
       sqlServerName:
         description: 'SQL Server name'
         required: true

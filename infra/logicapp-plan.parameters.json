@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
   "parameters": {
     "logicAppname": {
-      "value": "la-ais-demos"
+      "value": "la-ais-demos_usecase4_celine123"
     },
     "appInsightName": {
       "value": "appinsights-la-ais-demos"

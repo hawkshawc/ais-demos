@@ -9,14 +9,15 @@ on:
       subscriptionId:
         description: 'SubscriptionId'
         required: true
+        default: 'a7e948a0-d968-4731-801f-7053780b34fe'
       resourceGroupName:
         description: 'Resource group name'
         required: true
-        default: 'rg-ais-demos'
+        default: 'LogicAppEastUS'
       storageAccountName:
         description: 'Storage account name'
         required: true
-        default: 'blobfilemgmt12345'
+        default: 'startestusecase4'
   
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
